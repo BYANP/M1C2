@@ -33,6 +33,7 @@
 .flexThree {
     display: flex;
     flex-direction: row-reverse;
+    justify-content: flex-end;
 }
 
 .flexThree .square {
